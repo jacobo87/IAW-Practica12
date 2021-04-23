@@ -42,6 +42,6 @@ PhpMyAdmin
 
 
 ## REFERENCIAS
-- [José Juan Sanchez](https://josejuansanchez.org/iaw/practica-12/index.html)
+- [José Juan Sánchez](https://josejuansanchez.org/iaw/practica-12/index.html)
 - [Jose Antonio Padilla](https://github.com/japsasir/iaw-practica-12)
 - [SSH para PhpMyAdmin](https://docs.bitnami.com/aws/faq/get-started/access-phpmyadmin/)
