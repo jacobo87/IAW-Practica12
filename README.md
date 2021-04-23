@@ -19,7 +19,8 @@ Configuramos los puertos que vamos a abrir para para poder usar nuestra AMI.
 ![image2](images/ami2.png "AMI")
 
 Para poder acceder a nuestro sitio de Wordpress, debemos saber nuestro usuario y contraseña para el panel de administración. Para ello en nuestro sitio de **Amazon EC2**, elegimos nuestra **instancia**:
-**Botón derecho del ratón / Monitoreo y solución de problemas / Obtener registros del sistema**
+
+- **Botón derecho del ratón / Monitoreo y solución de problemas / Obtener registros del sistema**
 ![image3](images/ami4.png "AMI")
 
 Desde nuestra IP pública podemos acceder al sitio creado
